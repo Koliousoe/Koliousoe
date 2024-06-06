@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @Koliousoe
-- 👀 I’m interested in Hinking and going to the Gym
-- 🌱 I’m currently learning HTML
+- 👋 Hi, I’m @Koliousoe.
+- 👀 I’m interested in Hinking and going to the Gym.
+- 🌱 I’m currently working on The Odin project essentials.
+- My next goal is to learn the code in Python.
